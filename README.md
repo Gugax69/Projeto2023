@@ -2,7 +2,7 @@
 
 # Setup
 ## Create python virtual environment
-python venv venv
+python3 -m venv venv
 
 ## Activate the virtual environment
 source venv/bin/activate
